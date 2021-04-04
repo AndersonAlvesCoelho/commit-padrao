@@ -14,7 +14,7 @@ Para o melhor proveito do commit padrão, sempre deve dar um commit toda vez que
 ## Segue os elementos dos tipos para comunicar a intenção do commit:
 
 - Feat - ser refere ao um novo recurso criado;
-- Feat! ou refector - quando realiza uma melhoria ou otimização em um recurso já existente, onde não teve correção de bug ou não adicionou uma nova funcionalidade na aplicação;
+- Fix! ou refector - quando realiza uma melhoria ou otimização em um recurso já existente, onde não teve correção de bug ou não adicionou uma nova funcionalidade na aplicação;
 - Upgrade - adiciona um novo recurso em uma funcionalidade;
 - Fix - corrigir um problema em uma funcionalidade;
 - doc - criação ou alteração na documentação;
