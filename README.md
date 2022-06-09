@@ -1,6 +1,6 @@
 # Commit Padrão
 
-Commit padrão é especificação simplificada e intuitiva para ser utilizada nas mensagens de commits. Deve ser seguido corretamento um conjunto de regras para criar um histórico commit, que facilita o controle das aplicação.
+Commit padrão é especificação simplificada e intuitiva para ser utilizada nas mensagens de commits. Deve ser seguido corretamente um conjunto de regras para criar um histórico commit, que facilita o controle das aplicação.
 Para o melhor proveito do commit padrão, sempre deve dar um commit toda vez que criar, altera, melhorar ou corrigi uma funcionalidade, podendo assim acompanha o historio de commit da aplicação.
 
 ### A mensagem do commit padrão deve ser estrutura da seguinte forma:
